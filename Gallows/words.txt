@@ -1,1 +1,4 @@
-ekzamen
+exam
+programmingInC++
+developer
+BW321
